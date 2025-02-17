@@ -12,5 +12,11 @@
   },
   "chrome_url_overrides": {
     "newtab": "index.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "minimal@newtab.com",
+      "strict_min_version": "91.0"
+    }
   }
 }
